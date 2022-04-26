@@ -38,6 +38,12 @@ body {
     float: left;
 }
 
+.card .content {
+    float: right;
+    width: calc( 100% - 80px );
+    padding: 10px;
+}
+
 /* SECTION 1 */
 h1 {
     color: #e53170;
