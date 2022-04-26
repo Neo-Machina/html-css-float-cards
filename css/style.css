@@ -13,7 +13,6 @@ body {
 .container {
     width: 70%;
     margin: auto;
-    text-align: center;
 }
 
 .clearfix::after {
@@ -22,17 +21,6 @@ body {
     clear: both;
 }
 
-/* TITOLO E PARAGRAFO */
-h1 {
-    color: #e53170;
-    margin: 30px 0;
-}
-
-.container p {
-    margin-top: 45px;
-}
-
-/* CONTENT */
 .col {
     float: left;
     padding: 0 15px;
@@ -42,5 +30,29 @@ h1 {
 .card{
     background-color: lightblue;
 }
+
+.card img {
+    width: 80px;
+    float: left;
+}
+
+/* SECTION 1 */
+h1 {
+    color: #e53170;
+    margin: 30px 0;
+}
+
+.container p {
+    margin-top: 45px;
+}
+
+.section1 {
+    text-align: center;
+}
+
+/* SECTION 2 */
+
+
+
 
 
