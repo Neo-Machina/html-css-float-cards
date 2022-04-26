@@ -65,5 +65,12 @@ h1 {
     color: #4cbee4;
 }
 
+.text-size {
+    font-size: 12px;
+}
+
+.email-color space {
+    padding: 5px 0;
+}
 
 
