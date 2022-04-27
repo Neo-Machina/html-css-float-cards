@@ -11,7 +11,7 @@ body {
 }
 
 .container {
-    width: 62%;
+    width: 63%;
     margin: auto;
 }
 
@@ -63,6 +63,7 @@ h1 {
 /* SECTION 2 */
 .email-color {
     color: #4cbee4;
+    text-decoration: none;
 }
 
 .text-size {
